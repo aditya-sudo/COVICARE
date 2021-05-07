@@ -76,10 +76,13 @@ print('''<!doctype html>
               <a class="nav-link text-dark" href="Breathing Exercise.html"><h4><b>Exercise</b></h4></a>
             </li> 
             <li class="nav-item">
-                <a class="nav-link text-dark" href="https://www.cowin.gov.in/home"><h4><b>Vacccination</b></h4></a>
+                <a class="nav-link text-dark" href="Vac.html"><h4><b>Vaccination</b></h4></a>
             </li>
             <li class="nav-item">
-            <a class="nav-link text-dark" href="Breathing Exercise.html"><h4><b>Feed</b></h4></a>  
+              <a class="nav-link text-dark" href="plasma.html"><h4><b>Plasma</b></h4></a>
+            </li>
+            <li class="nav-item">
+            <a class="nav-link text-dark" href="scrap.html"><h4><b>Feed</b></h4></a>  
             </li> 
             <li class="nav-item">
                   <a class="nav-link text-dark" href="VitalCheck.html"><h4><b>VitalCheck</b></h4></a>
